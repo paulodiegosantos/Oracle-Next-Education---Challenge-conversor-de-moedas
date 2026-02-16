@@ -56,7 +56,7 @@ Ao selecionar uma opção, o usuário poderá informar o valor que deseja conver
 git clone https://github.com/paulodiegosantos/Oracle-Next-Education---Challenge-conversor-de-moedas.git
 
 2. Entre na pasta do projeto
-cd conversor-de-moedas
+cd conversor_de_moedas
 
 3. Compile e execute o projeto Java
 javac src/Main.java
